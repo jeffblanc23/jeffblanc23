@@ -3,8 +3,8 @@
 - 🔭 Atualmente trabalho como Analista de Suporte na empresa SmartGovBr;
 - 👨🏻‍💻 Estudando tecnologias Front-End, com foco atual em ReactJs;
 - 🎓 Graduando em Sistemas de Informação pela Universidade Federal Rural da Amazônia (UFRA);
-- 🤔 Expandindo networking com professionais da área de desenvolvimento para troca de conhecimento e experiências;
-- 👁️ Busco vagas como desenvolvedor web para aplicar meus conhecimentos e aprender novas tecnologias;
+- 🤔 Expandindo networking com profissionais da área de desenvolvimento para troca de conhecimento e experiências;
+- 👁️ Busco vagas de desenvolvedor web para aplicar meus conhecimentos e aprender novas tecnologias;
 - 📫 Contate-me no e-mail: jeffrey.mblanc@gmail.com;
 - 😄 Pronome: ele/dele 🌈;
 - <img height="20em" width="20em" alt="speak-emoji" src="https://user-images.githubusercontent.com/25435233/127782044-37b65dc6-f6ed-4228-948a-335832270593.png"/> : <img height="20em" width="20em" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/flag-brazil_1f1e7-1f1f7.png"/> / <img height="20em" width="20em" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/flag-united-states_1f1fa-1f1f8.png"/> / <img height="20em" width="20em" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/282/flag-spain_1f1ea-1f1f8.png"/>
