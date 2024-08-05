@@ -1,8 +1,8 @@
 ### Oi, eu me chamo Jeffrey Blanc 👋
 ##
-- 🔭 Atualmente trabalho como Analista de Suporte na empresa SmartGovBr;
-- 👨🏻‍💻 Estudando tecnologias Front-End, com foco atual em ReactJs;
-- 🎓 Graduando em Sistemas de Informação pela Universidade Federal Rural da Amazônia (UFRA);
+- 🎓 Bacharel em Sistemas de Informação pela Universidade Federal Rural da Amazônia (UFRA);
+- 🔭 Atualmente trabalho como Programador Full-stack e mobile na empresa SmartGovBr;
+- 👨🏻‍💻 Estudando tecnologias Front-End, com foco atual em Angular e ReactJs;
 - 🤔 Expandindo networking com profissionais da área de desenvolvimento para troca de conhecimento e experiências;
 - 👁️ Busco vagas de desenvolvedor web para aplicar meus conhecimentos e aprender novas tecnologias;
 - 📫 Contate-me no e-mail: jeffrey.mblanc@gmail.com;
